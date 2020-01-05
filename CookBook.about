@@ -1,0 +1,9 @@
+#CookBook by me
+---------------- 6.1.2019
+This year I wanted to get to gether some family recipies
+So i want to make some basic aplication for mamaging recipies
+
+For my initial idea i would like to use sqlite database for storing data 
+and write some python code to modify, sort and display it. 
+
+----------------
